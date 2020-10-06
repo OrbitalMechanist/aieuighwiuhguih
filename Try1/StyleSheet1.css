@@ -1,0 +1,7 @@
+﻿span {
+    font-family: 'Agency FB';
+    font-size: 96pt;
+    color: transparent;
+    background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet);
+    background-clip: text;
+}
